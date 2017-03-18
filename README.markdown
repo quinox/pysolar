@@ -1,5 +1,7 @@
 ## Pysolar ##
 
+[![Build Status](https://travis-ci.org/quinox/pysolar.svg?branch=travis-quinox)](https://travis-ci.org/quinox/pysolar)
+
 Pysolar is a collection of Python libraries for simulating the irradiation of any point on earth by the sun. It includes code for extremely precise ephemeris calculations, and more.
 
 # Note: right now, the latest commits of Pysolar don't work with Python 2.x #
